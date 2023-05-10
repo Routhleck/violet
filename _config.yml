@@ -1,6 +1,6 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Sichao He
+bio: An undergraduate from Beijing Jiaotong University & the technical director of Beijing Zhinong Technology Co. LTD
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -11,10 +11,10 @@ url: http://koppl.in/violet
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+# facebook: myfacebook
+# twitter: mytwitter
+github: https://github.com/Routhleck
+email: 20301037@bjtu.edu.cn
 
 gems:
   - jekyll-seo-tag
